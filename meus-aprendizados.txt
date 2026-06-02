@@ -1,1 +1,12 @@
-Resenha
+No primeiro período, aprendi os fundamentos de Python,
+desenvolvendo minha lógica de programação e criando pequenos
+projetos utilizando estruturas como condicionais, laços e
+funções. Também tive meu primeiro contato com HTML e CSS,
+entendendo como criar e estilizar páginas web básicas.
+
+Além do aprendizado técnico, participei de atividades em
+equipe, que ajudaram a desenvolver habilidades de comunicação,
+colaboração e organização. Um dos projetos mais interessantes
+foi a criação de um jogo na plataforma Bitsy, experiência que
+estimulou a criatividade e mostrou, na prática, etapas do
+desenvolvimento de um jogo digital.
